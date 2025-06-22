@@ -24,15 +24,28 @@
 
 These cards summarize my GitHub activity, productivity, languages, and contribution health:
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimshaKhanSherwani&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimshaKhanSherwani&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimshaKhanSherwani&theme=tokyonight&utcOffset=+5" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RimshaKhanSherwani&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimshaKhanSherwani&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
-![Commit Times](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimshaKhanSherwani&theme=tokyonight&utcOffset=+5)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RimshaKhanSherwani&theme=tokyonight)
-
-![Most Committed Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimshaKhanSherwani&theme=tokyonight)
-
-![GitHub Stats Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimshaKhanSherwani&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimshaKhanSherwani&theme=tokyonight" />
+</p>
 
 > 🛠 Note: Most of my active contributions, PRs, and issues are in private repositories — stats above may not reflect full activity.
 
