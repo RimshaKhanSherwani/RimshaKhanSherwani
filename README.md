@@ -34,6 +34,7 @@ These cards summarize my GitHub activity, productivity, languages, and contribut
 
 ![GitHub Stats Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimshaKhanSherwani&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RimshaKhanSherwani&show_icons=true&count_private=true&theme=tokyonight)
 
 ## 🔗 Let's Connect
 
