@@ -52,6 +52,5 @@ These cards summarize my GitHub activity, productivity, languages, and contribut
 
 ## 🔗 Let's Connect
 
-🌐 [Portfolio Website](#)  
 📫 [Email](rimshasherwani@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/rimsha-sherwani-916b77262/)  
