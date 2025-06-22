@@ -24,29 +24,29 @@
 
 These cards summarize my GitHub activity, productivity, languages, and contribution health:
 
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimshaKhanSherwani&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimshaKhanSherwani&theme=tokyonight" width="100%"/>
 </p>
 
 <table>
-  <tr  width="100%">
-    <td  width="100%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RimshaKhanSherwani&theme=tokyonight" />
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RimshaKhanSherwani&theme=tokyonight" width="100%"/>
     </td>
-    <td  width="100%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimshaKhanSherwani&theme=tokyonight" />
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimshaKhanSherwani&theme=tokyonight" width="100%"/>
     </td>
   </tr>
-  <tr  width="100%">
-    <td  width="100%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimshaKhanSherwani&theme=tokyonight&utcOffset=+5" />
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimshaKhanSherwani&theme=tokyonight&utcOffset=+5" width="100%"/>
     </td>
-    <td  width="100%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimshaKhanSherwani&theme=tokyonight" />
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimshaKhanSherwani&theme=tokyonight" width="100%"/>
     </td>
   </tr>
 </table>
-
 
 > 🛠 Note: Most of my active contributions, PRs, and issues are in private repositories — stats above may not reflect full activity.
 
