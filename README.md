@@ -20,9 +20,20 @@
 ![FabricJS](https://img.shields.io/badge/-FabricJS-0D597F?style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+## 🧾 GitHub Summary Cards
 
-![Rimsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RimshaKhanSherwani&show_icons=true&hide_title=true&theme=tokyonight)
+These cards summarize my GitHub activity, productivity, languages, and contribution health:
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimshaKhanSherwani&theme=tokyonight)
+
+![Commit Times](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimshaKhanSherwani&theme=tokyonight&utcOffset=+5)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RimshaKhanSherwani&theme=tokyonight)
+
+![Most Committed Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimshaKhanSherwani&theme=tokyonight)
+
+![GitHub Stats Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimshaKhanSherwani&theme=tokyonight)
+
 
 ## 🔗 Let's Connect
 
