@@ -29,19 +29,19 @@ These cards summarize my GitHub activity, productivity, languages, and contribut
 </p>
 
 <table>
-  <tr>
-    <td>
+  <tr  width="100%">
+    <td  width="100%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RimshaKhanSherwani&theme=tokyonight" />
     </td>
-    <td>
+    <td  width="100%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimshaKhanSherwani&theme=tokyonight" />
     </td>
   </tr>
-  <tr>
-    <td>
+  <tr  width="100%">
+    <td  width="100%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimshaKhanSherwani&theme=tokyonight&utcOffset=+5" />
     </td>
-    <td>
+    <td  width="100%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimshaKhanSherwani&theme=tokyonight" />
     </td>
   </tr>
