@@ -24,15 +24,11 @@
 
 These cards summarize my GitHub activity, productivity, languages, and contribution health:
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimshaKhanSherwani&theme=tokyonight" width="100%" />
+</p>
+
 <table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RimshaKhanSherwani&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimshaKhanSherwani&theme=tokyonight&utcOffset=+5" />
-    </td>
-  </tr>
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RimshaKhanSherwani&theme=tokyonight" />
@@ -41,11 +37,16 @@ These cards summarize my GitHub activity, productivity, languages, and contribut
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RimshaKhanSherwani&theme=tokyonight" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RimshaKhanSherwani&theme=tokyonight&utcOffset=+5" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimshaKhanSherwani&theme=tokyonight" />
+    </td>
+  </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RimshaKhanSherwani&theme=tokyonight" />
-</p>
 
 > 🛠 Note: Most of my active contributions, PRs, and issues are in private repositories — stats above may not reflect full activity.
 
