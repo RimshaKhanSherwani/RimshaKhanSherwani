@@ -47,33 +47,44 @@ Frontend Engineer with **3+ years** of experience building enterprise SaaS appli
 
 </p>
 
-<p align="center">
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+</p>
+
+### 🎨 UI Libraries
+
+<p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="45"/>
 
 </p>
 
-**Frontend**
+- Ant Design
+- Styled Components
+- Storybook
+- AntV
+- Fabric.js
 
-React • Next.js • Ant Design • Material UI • Styled Components • Storybook • Fabric.js
+### 🔥 Backend
 
-**State Management**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql" />
+</p>
 
-Recoil • Jotai • Context API • React Query
+### ☁️ DevOps
 
-**Backend**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,azure,netlify,vscode" />
+</p>
 
-Node.js • Express • MongoDB • MySQL
+### 🤖 AI
 
-**Tools**
-
-Git • GitHub • GitHub Actions • Azure DevOps • Netlify
-
-**AI**
-
-GitHub Copilot • OpenAI API • LangChain • CodeRabbit
-
+- GitHub Copilot
+- LangChain
+- OpenAI API
+- CodeRabbit
 ---
 
 ### 💼 Experience
