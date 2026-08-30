@@ -3,7 +3,7 @@
 <h2>Hi 👋, I'm Rimsha Sherwani</h2>
 
 <p>
-Frontend Engineer • React • TypeScript • Enterprise SaaS • AI-Augmented Development
+Software Engineer • React JS • TypeScript • Node JS •Enterprise SaaS • AI-Augmented Development
 </p>
 
 <p>
@@ -27,15 +27,18 @@ Building scalable, accessible, and high-performance web applications.
 
 ### 👩‍💻 About Me
 
-Frontend Engineer with **3+ years** of experience building enterprise SaaS applications using **React**, **TypeScript**, and modern frontend technologies.
+Engineering products with **3+ years** of experience building enterprise SaaS applications using **React**, **TypeScript**, and modern full-stack technologies.
 
-- ⚛️ React & Next.js
-- 📱 Responsive UI Development
-- 🎨 Design Systems & Storybook
-- 📊 Interactive Dashboards
-- 🚀 Performance Optimization
-- 🤖 AI-assisted Development
-- ☁️ CI/CD & Azure DevOps
+* ⚛️ React & Next.js
+* 🖥️ Full-Stack Web Development
+* 📱 Responsive UI Development
+* 🎨 Design Systems & Storybook
+* 📊 Interactive Dashboards & Data Visualization
+* 🚀 Performance Optimization
+* 🤖 AI-assisted Development
+* ☁️ CI/CD & Azure DevOps
+* 🔗 REST APIs & Backend Integration
+* 🗄️ Databases & Server-side Development
 
 ---
 
@@ -89,14 +92,20 @@ Frontend Engineer with **3+ years** of experience building enterprise SaaS appli
 
 ### 💼 Experience
 
-**Mid-Senior Frontend Engineer**  
-**Embrace-IT (PVT) Ltd**
+**Product Owner & Team Lead** · Embrace-IT (PVT) Ltd · *Present*
 
-- Led React micro-frontend architecture
-- Improved Lighthouse performance by 30%
-- Built enterprise SaaS dashboards
-- Enhanced CI/CD workflows
-- Integrated AI-assisted development tools
+* Leading product strategy, engineering teams, and end-to-end delivery
+* Bridging business, product, design, and engineering
+* Driving technical decisions, roadmaps, and development standards
+
+**Mid-Senior Full-Stack Engineer** · Embrace-IT (PVT) Ltd
+
+* Built and scaled enterprise SaaS products across frontend and backend
+* Led React micro-frontend architecture and scalable UI systems
+* Developed React/TypeScript applications, REST APIs, and database-driven features
+* Improved Lighthouse performance by **30%**
+* Built enterprise dashboards and integrated backend services
+* Enhanced CI/CD workflows and adopted AI-assisted development
 
 ---
 
@@ -149,14 +158,14 @@ Frontend Engineer with **3+ years** of experience building enterprise SaaS appli
 </p>
 
 ---
+### 🎯 Currently Exploring
 
-### 🎯 Currently Learning
-
-- 🤖 AI Engineering
-- ⚛️ Advanced React Patterns
-- 🧩 Design Systems
-- ☁️ Cloud Deployment
-- 🚀 Frontend Performance
+* 🤖 AI Engineering & LLM Applications
+* 🧠 AI-powered Product Development
+* 🏗️ Scalable Full-Stack Architecture
+* ☁️ Cloud Architecture & DevOps
+* 📐 Product Strategy & Technical Leadership
+* 🚀 Building & Scaling SaaS Products
 
 ---
 
