@@ -82,12 +82,14 @@ Engineering products with **3+ years** of experience building enterprise SaaS ap
 <img src="https://skillicons.dev/icons?i=git,github,azure,netlify,vscode" />
 </p>
 
-### 🤖 AI
+### 🤖 AI & GenAI
 
-- GitHub Copilot
-- LangChain
-- OpenAI API
-- CodeRabbit
+* 🧠 LLM Application Development
+* 🔗 LangChain & AI Agent Workflows
+* ⚡ OpenAI & LLM APIs
+* 🛠️ AI-Assisted Software Development
+* 🔍 RAG & Vector Search
+* 🤖 AI Agents & Automations 
 ---
 
 ### 💼 Experience
